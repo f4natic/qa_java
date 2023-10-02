@@ -8,5 +8,5 @@ public class Constants {
     public static final String EXPECTED_FAMILY = "Существует несколько семейств: заячьи, беличьи, мышиные, кошачьи, псовые, медвежьи, куньи";
     public static final String FELINE_FAMILY = "Кошачьи";
 
-
+    public static final String CAT_SOUND = "Мяу";
 }
